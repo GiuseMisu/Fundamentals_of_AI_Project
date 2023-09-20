@@ -15,23 +15,23 @@ The project utilizes the following technologies:
 ## Silvestri's Project
 
 - **Description**: This project includes a Google Colab notebook where we analyze the "Online News Popularity Data Set" using various machine learning models to understand how the number of shares (the target variable) is influenced by various features.
-- **Folder**: [Project Silvestri](/Project%20Silvestri)
+- **Folder**: [Project Silvestri](/progetto%20silvestri)
 
 ## Project Umili Prolog
 
 - **Description**: This folder contains a series of exercises related to programming in Prolog.
-- **Folder**: [Project Umili Prolog](/Project%20Umili%20Prolog)
+- **Folder**: [Project Umili Prolog](/progetto%20Umili%20prolog)
 
 ## Project Umili Research A Star
 
 ### Exercise 1 and 2
 
 - **Description**: These exercises are designed to familiarize you with the gridworld environment.
-- **Folder**: [Exercise 1 and 2](/Project%20Umili%20Research%20A%20Star/Exercise%201%20and%202)
+- **Folder**: [Exercise 1 and 2](/Progetto%20Umili%20ricerca%20A%20star)
 
 ### Homework
 
 - **Description**: In the "homework" subfolder, you will find the implementation of an intelligent agent capable of moving in four directions within a grid world environment where not all cells are accessible. Specifically, after selecting the target cell to reach, the agent must:
   1. Find the optimal path to reach it if it exists.
   2. Follow that path.
-- **Folder**: [Homework](/Project%20Umili%20Research%20A%20Star/Homework)
+- **Folder**: [Homework](/Progetto%20Umili%20ricerca%20A%20star/homework)
